@@ -5,7 +5,7 @@ main:
   - title: "Getting Started FAQ"
     url: /faq/
   - title: "Digging Deeper: Next Steps"
-    url: : /digging-deeper/
+    url: /digging-deeper/
   - title: "GitHub Repository"
     url: /github-repository/
   - title: "Developer Wiki"
