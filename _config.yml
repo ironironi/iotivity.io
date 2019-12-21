@@ -16,7 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "IoTivity" #"Site Title"
+=======
+title                    : "Getting Started"
+>>>>>>> parent of 1417599... Update _config.yml
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Open Connectivity Foundation" #"Your Name"
