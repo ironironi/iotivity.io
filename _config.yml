@@ -292,7 +292,11 @@ defaults:
   # _posts
   - scope:
       path: ""
+<<<<<<< HEAD
       type: Pages
+=======
+      type: posts
+>>>>>>> parent of 927278d... hide posts
     values:
       layout: single
       author_profile: true
@@ -300,7 +304,10 @@ defaults:
       comments: # true
       share: true
       related: true
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 927278d... hide posts
 
   # _pages
   - scope:
