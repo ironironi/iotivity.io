@@ -293,7 +293,11 @@ defaults:
   - scope:
       path: ""
 <<<<<<< HEAD
+<<<<<<< HEAD
       type: Pages
+=======
+      type: posts
+>>>>>>> parent of 927278d... hide posts
 =======
       type: posts
 >>>>>>> parent of 927278d... hide posts
@@ -305,7 +309,10 @@ defaults:
       share: true
       related: true
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 927278d... hide posts
 =======
 >>>>>>> parent of 927278d... hide posts
 
