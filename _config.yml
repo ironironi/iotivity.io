@@ -290,6 +290,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+<<<<<<< HEAD
   - scope:
       path: ""
 <<<<<<< HEAD
@@ -315,6 +316,18 @@ defaults:
 >>>>>>> parent of 927278d... hide posts
 =======
 >>>>>>> parent of 927278d... hide posts
+=======
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: # true
+#      share: true
+#      related: true
+>>>>>>> parent of b45eaee... reverting to prev configyml
 
   # _pages
   - scope:
