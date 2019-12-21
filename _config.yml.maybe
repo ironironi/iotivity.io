@@ -16,7 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Site Title"
+=======
+title                    : "IoTivity"
+>>>>>>> 1417599ab04660d35d6dfbe6c37e34eb3ee8f831
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
